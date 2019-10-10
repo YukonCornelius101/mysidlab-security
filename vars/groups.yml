@@ -8,3 +8,5 @@ aws_groups:
   - palmsprings
   - sandiego
   - napa
+  - mobile
+  - montgomery
