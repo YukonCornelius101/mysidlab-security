@@ -1,8 +1,8 @@
 ---
 users:
-  - name: user1
-    aws_groups: "sacramento, fresno, indio"
-  - name: user2
-    aws_groups: "losangeles, sanfransisco, napa"
-  - name: user3
-    aws_groups: "palmsprings, indio, sandiego"
+  - name: foster1
+    aws_groups: "mobile, montgomery, birmingham"
+  - name: foster2
+    aws_groups: "dothan, huntsville, talladega"
+  - name: foster3
+    aws_groups: "selma, jackson, coffeeville"
